@@ -22,3 +22,9 @@ Ngày trong tuần	Thứ 2	Thứ 3	Thứ 4	Thứ 5	Thứ 6	Thứ 7	Chủ nhật
 | JD mod 7        | 0     | 1     |  2    | 3     | 4     | 5     | 6        |
 | --------------- |:-----:| :---: |:-----:| :---: |:-----:| :----:| |:------:|
 | Ngày trong tuần | Thứ 2 | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7 | Chủ nhật |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
